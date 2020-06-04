@@ -20,7 +20,7 @@
   "children": [
     {
       "en": {
-        "title": "Obtener similitud",
+        "title": "Get similarity",
         "description": "Save in a variable the percentage of similarity between two strings",
         "title_options": null,
         "options": null
