@@ -2,7 +2,6 @@
 String Module Manager.
 
 ## Commands
-## Commands
 <ul class="commands_readme">
     <li>Get similarity</li>
     <li>Replace</li>
