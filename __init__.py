@@ -82,3 +82,11 @@ if module == "find":
         PrintException()
         raise e
 
+if module == "reverse":
+    string = GetParams("string")
+    result = GetParams("result")
+
+    reverse_string = string[::-1]
+    if result:
+        SetVar(result, reverse_string)
+
