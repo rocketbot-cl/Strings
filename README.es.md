@@ -4,26 +4,26 @@ String Module Manager.
 
 *Read this in other languages: [English](README.md), [Spanish](README.es.md), [Portuguese](README.pr.md).*
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Rocketbot.  
 
 
 
 ## Overview
 
 
-1. Get similarity  
-Return the percentage of similarity between two strings
+1. Obtener similitud  
+Regresa el porcentaje de similitud entre dos strings
 
-2. Replace Substring  
-Command to use replace method. 'str'.replace('s','d')
+2. Reemplazar carácteres  
+Comando para reemplazar caracteres en un string. 'str'.replace('s','d')
 
-3. Split  
-Command to use split method. 'str-list'.split('-')
+3. Convertir a Lista  
+Comando para convertir string en lista según separador. 'str-list'.split('-')
 
-4. Reverse  
-Reverses a specified source string.  
+4. Invertir  
+Invierte un string especificado.  
 
 
 
